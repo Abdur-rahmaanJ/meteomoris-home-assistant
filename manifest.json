@@ -1,0 +1,9 @@
+{
+  "domain": "meteomoris",
+  "name": "Meteomoris Weather",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Abdur-Rahmaanj/meteomoris",
+  "requirements": ["meteomoris"],
+  "dependencies": [],
+  "codeowners": ["@Abdur-RahmaanJ"]
+}
