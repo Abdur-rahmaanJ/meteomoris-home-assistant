@@ -1,6 +1,10 @@
 # meteomoris-home-assistant
 
+Thanks `@saajid` `@Matt27` `@The Little Cousin` for requesting!
+
 ## Quick install
+
+Requires `meteomoris` from pypi
 
 ```
 cd config/custom_components
